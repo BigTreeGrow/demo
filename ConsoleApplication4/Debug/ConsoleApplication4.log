@@ -1,0 +1,4 @@
+﻿  ConsoleApplication4.cpp
+E:\demo\ConsoleApplication4\ConsoleApplication4.cpp(27,10): warning C4101: “k”: 未引用的局部变量
+E:\demo\ConsoleApplication4\ConsoleApplication4.cpp(26,10): warning C4101: “b”: 未引用的局部变量
+  ConsoleApplication4.vcxproj -> E:\demo\ConsoleApplication4\Debug\ConsoleApplication4.exe

@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+E:\demo\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(44,5): error C2059: 语法错误:“delete”
+E:\demo\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(45,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\demo\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(45,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\demo\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(89,21): error C2541: “delete”: 不能删除不是指针的对象
+E:\demo\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(92,21): error C2541: “delete”: 不能删除不是指针的对象
